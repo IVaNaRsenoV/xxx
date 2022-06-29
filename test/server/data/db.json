@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Lenovo",
+      "cost": 34000,
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/4/small_image/270x265/62defc7f46f3fbfc8afcd112227d1181/l/e/lenovo_v15_iml_82nb0021ra_iron_grey_011_1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Lenovo",
+      "cost": 25000,
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/4/small_image/270x265/62defc7f46f3fbfc8afcd112227d1181/n/x/nxn_22_.jpeg_2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Lenovo",
+      "cost": 28000,
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/4/small_image/270x265/62defc7f46f3fbfc8afcd112227d1181/0/2/02_legion_5_hero_front_facing_jd_black_2.jpg"
+    },
+    {
+      "id": 4,
+      "title": "TV Samsung",
+      "cost": 15300,
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/4/small_image/140x/62defc7f46f3fbfc8afcd112227d1181/g/u/gu65au7179uxzg_011_front3_titan-gray.jpg"
+    },
+    {
+      "id": 5,
+      "title": "TV Xiomi Mi TV P1 32",
+      "cost": 9000,
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/4/small_image/270x265/62defc7f46f3fbfc8afcd112227d1181/u/0/u0590533_big.jpg.jpg"
+    },
+    {
+      "id": 6,
+      "title": "TV Samsung QE50Q60AAUXUA",
+      "cost": 26000,
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/4/small_image/270x265/62defc7f46f3fbfc8afcd112227d1181/q/e/qe50q60aauxua_1_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Xiomi Redmi Note 11 4/128Gb Twlight Blue",
+      "cost": 9000,
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/4/small_image/140x/62defc7f46f3fbfc8afcd112227d1181/n/o/note_11_blue_8.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Xiomi Redmi Note 11 4/64Gb Graphite Gray",
+      "cost": 7000,
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/4/small_image/270x265/62defc7f46f3fbfc8afcd112227d1181/n/o/note_11_gray_6.jpg"
+    }
+  ],
+  "basket": [],
+  "test": []
+}
